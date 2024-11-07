@@ -27,7 +27,7 @@
     <div class="container" id="container">
         <div class="form-container sign-up-container">
             <form action="#">
-                <h1>Create Account</h1>
+                <h1>Hey</h1>
                 <span>or use your email for registration</span>
                 <div class="infield">
                     <input type="text" placeholder="Name" />
